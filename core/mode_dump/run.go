@@ -17,8 +17,8 @@ import (
 	"github.com/TheManticoreProject/Manticore/network/dcerpc/interfaces/e1af8308-5d1f-11c9-91a4-08002b14a0fa/3.0/structures"
 	"github.com/TheManticoreProject/Manticore/windows/guid"
 
-	"github.com/TheManticoreProject/manticore-msrpc/config"
-	"github.com/TheManticoreProject/manticore-msrpc/core/utils"
+	"github.com/TheManticoreProject/msrpc/config"
+	"github.com/TheManticoreProject/msrpc/core/utils"
 )
 
 // Binding is a single registration of an interface: where it can be reached and any

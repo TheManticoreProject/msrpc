@@ -14,8 +14,8 @@ import (
 
 	"github.com/TheManticoreProject/Manticore/logger"
 
-	"github.com/TheManticoreProject/manticore-msrpc/config"
-	"github.com/TheManticoreProject/manticore-msrpc/core/mode_dump"
+	"github.com/TheManticoreProject/msrpc/config"
+	"github.com/TheManticoreProject/msrpc/core/mode_dump"
 )
 
 // endpoint is one registered (interface, binding) pair, flattened from mode_dump's grouped

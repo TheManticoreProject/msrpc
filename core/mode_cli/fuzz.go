@@ -15,7 +15,7 @@ import (
 	"github.com/TheManticoreProject/Manticore/network/dcerpc/v5/transport/tcp"
 	"github.com/TheManticoreProject/Manticore/windows/guid"
 
-	"github.com/TheManticoreProject/manticore-msrpc/core/utils"
+	"github.com/TheManticoreProject/msrpc/core/utils"
 )
 
 // bindTimeout bounds the TCP connect and bind to a resolved endpoint so a dead port fails

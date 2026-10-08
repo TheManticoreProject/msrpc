@@ -3,9 +3,9 @@
 <p align="center">
       Enumerate, monitor, and fuzz MS-RPC interfaces through a target's endpoint mapper.
       <br>
-      <a href="https://github.com/TheManticoreProject/manticore-msrpc/actions/workflows/release.yaml" title="Build"><img alt="Build and Release" src="https://github.com/TheManticoreProject/manticore-msrpc/actions/workflows/release.yaml/badge.svg"></a>
-      <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/TheManticoreProject/manticore-msrpc">
-      <img alt="Go Report Card" src="https://goreportcard.com/badge/github.com/TheManticoreProject/manticore-msrpc">
+      <a href="https://github.com/TheManticoreProject/msrpc/actions/workflows/release.yaml" title="Build"><img alt="Build and Release" src="https://github.com/TheManticoreProject/msrpc/actions/workflows/release.yaml/badge.svg"></a>
+      <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/TheManticoreProject/msrpc">
+      <img alt="Go Report Card" src="https://goreportcard.com/badge/github.com/TheManticoreProject/msrpc">
       <br>
 </p>
 

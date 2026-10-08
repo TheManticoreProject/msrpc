@@ -5,7 +5,7 @@ import (
 
 	"github.com/TheManticoreProject/goopts/parser"
 
-	"github.com/TheManticoreProject/manticore-msrpc/core/utils"
+	"github.com/TheManticoreProject/msrpc/core/utils"
 )
 
 // SetupSubParser registers the "dump" subcommand and its argument groups on ap, binding

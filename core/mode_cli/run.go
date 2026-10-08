@@ -14,8 +14,8 @@ import (
 
 	"github.com/chzyer/readline"
 
-	"github.com/TheManticoreProject/manticore-msrpc/config"
-	"github.com/TheManticoreProject/manticore-msrpc/core/utils"
+	"github.com/TheManticoreProject/msrpc/config"
+	"github.com/TheManticoreProject/msrpc/core/utils"
 )
 
 // shell is the interactive REPL state. It holds the target configuration; each command

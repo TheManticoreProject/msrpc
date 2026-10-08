@@ -15,10 +15,10 @@ import (
 	"github.com/TheManticoreProject/Manticore/windows/credentials"
 	"github.com/TheManticoreProject/goopts/parser"
 
-	"github.com/TheManticoreProject/manticore-msrpc/config"
-	"github.com/TheManticoreProject/manticore-msrpc/core/mode_cli"
-	"github.com/TheManticoreProject/manticore-msrpc/core/mode_dump"
-	"github.com/TheManticoreProject/manticore-msrpc/core/mode_monitor"
+	"github.com/TheManticoreProject/msrpc/config"
+	"github.com/TheManticoreProject/msrpc/core/mode_cli"
+	"github.com/TheManticoreProject/msrpc/core/mode_dump"
+	"github.com/TheManticoreProject/msrpc/core/mode_monitor"
 )
 
 var (
